@@ -1,9 +1,8 @@
 # Spring_Project_POS
 
-##### 로그인
+
 ![image](https://github.com/KimJuHongg/Spring_Project_POS/assets/98217140/002e54ef-2f3f-4f02-96d1-d26b2e6d2ad9)
 
-### 회원가입
 ![image](https://github.com/KimJuHongg/Spring_Project_POS/assets/98217140/3ddd50e7-f2d7-4c24-b867-871629334b49)
 
 ### 로그인 실패
